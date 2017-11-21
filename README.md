@@ -10,19 +10,19 @@ LIT is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 10K LIT
 
-More information at [lithium.org](http://www.lithium.org) Visit our ANN thread at [BitcoinTalk](http://www.bitcointalk.org/index.php?topic=1262920)
+More information at [lithium.org](http://www.lithiumcoin.io) Visit our ANN thread at [BitcoinTalk](#)
 
 ### Coin Specs
 <table>
-<tr><td>Algo</td><td>Quark</td></tr>
+<tr><td>Algo</td><td>Scrypt/Quark</td></tr>
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
-<tr><td>Max Coin Supply (PoW Phase)</td><td>43,199,500 LIT</td></tr>
+<tr><td>Max Coin Supply (PoW Phase)</td><td>28,199,500 LIT</td></tr>
 <tr><td>Max Coin Supply (PoS Phase)</td><td>Infinite</td></tr>
-<tr><td>Premine</td><td>60,000 LIT*</td></tr>
+<tr><td>Premine</td><td>1,000,000 LIT*</td></tr>
 </table>
 
-*60,000 LIT Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/LIT/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
+*1,000,000 LIT Premine was burned in block [279917](http://www.presstab.pw/phpexplorer/LIT/block.php?blockhash=206d9cfe859798a0b0898ab00d7300be94de0f5469bb446cecb41c3e173a57e0)
 
 ### Reward Distribution
 
