@@ -1,4 +1,4 @@
-LIT Core integration/staging repository
+LITHIUMCOIN Core integration/staging repository
 =====================================
 
 [![Build Status](https://travis-ci.org/LIT-Project/LIT.svg?branch=master)](https://travis-ci.org/LIT-Project/LIT) [![GitHub version](https://badge.fury.io/gh/LIT-Project%2FLIT.svg)](https://badge.fury.io/gh/LIT-Project%2FLIT)
@@ -10,7 +10,7 @@ LIT is a cutting edge cryptocurrency, with many features not available in most o
   technology used to secure the network and provide the above features, each Masternode is secured
   with collateral of 10K LIT
 
-More information at [lithium.org](http://www.lithiumcoin.io) Visit our ANN thread at [BitcoinTalk](#)
+More information at [lithiumcoin.co](http://www.lithiumcoin.co) Visit our ANN thread at [BitcoinTalk](#)
 
 ### Coin Specs
 <table>
